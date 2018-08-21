@@ -1,0 +1,154 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "jaydata",
+        "scope": null,
+        "escapedName": "jaydata",
+        "name": "jaydata",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Projects\\Master-Solutions\\ESRM\\Project\\ESRM.Angular"
+    ]
+  ],
+  "_from": "jaydata@latest",
+  "_id": "jaydata@1.5.10",
+  "_inCache": true,
+  "_location": "/jaydata",
+  "_nodeVersion": "6.3.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/jaydata-1.5.10.tgz_1478685006129_0.5315094431862235"
+  },
+  "_npmUser": {
+    "name": "lazarv",
+    "email": "viktor.lazar@jaystack.com"
+  },
+  "_npmVersion": "3.8.6",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "jaydata",
+    "scope": null,
+    "escapedName": "jaydata",
+    "name": "jaydata",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/jaydata/-/jaydata-1.5.10.tgz",
+  "_shasum": "6766b6f30cf9eb66a497b133adc780a7a20c8a6c",
+  "_shrinkwrap": null,
+  "_spec": "jaydata",
+  "_where": "C:\\Projects\\Master-Solutions\\ESRM\\Project\\ESRM.Angular",
+  "author": {
+    "name": "JayData",
+    "url": "http://jaydata.org"
+  },
+  "bugs": {
+    "url": "https://github.com/jaydata/jaydata/issues"
+  },
+  "contributors": [
+    {
+      "name": "Dániel József"
+    },
+    {
+      "name": "Hajnalka Battancs"
+    },
+    {
+      "name": "János Roden"
+    },
+    {
+      "name": "László Horváth"
+    },
+    {
+      "name": "Péter Zentai"
+    },
+    {
+      "name": "Péter Nochta"
+    },
+    {
+      "name": "Róbert Bónay"
+    },
+    {
+      "name": "Szabolcs Czinege"
+    },
+    {
+      "name": "Viktor Borza"
+    },
+    {
+      "name": "Viktor Lázár"
+    },
+    {
+      "name": "Zoltán Gyebrovszki"
+    }
+  ],
+  "dependencies": {
+    "acorn": "^3.3.0",
+    "atob": "^2.0.0",
+    "btoa": "^1.1.2",
+    "dot": "^1.0.3",
+    "jaydata-dynamic-metadata": "^0.1.17",
+    "jaydata-error-handler": "^0.0.1",
+    "jaydata-promise-handler": "^0.0.1",
+    "odata-v4-metadata": "^0.1.3",
+    "xmldom": "^0.1.19"
+  },
+  "description": "Cross-platform HTML5 data-management, JavaScript Language Query (JSLQ) support for OData, SQLite, WebSQL, IndexedDB, YQL and Facebook (packaged for Node.JS)",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "6766b6f30cf9eb66a497b133adc780a7a20c8a6c",
+    "tarball": "https://registry.npmjs.org/jaydata/-/jaydata-1.5.10.tgz"
+  },
+  "homepage": "https://github.com/jaydata/jaydata#readme",
+  "keywords": [
+    "HTML5 data management",
+    "JavaScript",
+    "JavaScript Language Query",
+    "JSLQ",
+    "OData",
+    "MongoDB",
+    "SQLite",
+    "WebSQL",
+    "IndexedDB",
+    "YQL",
+    "Facebook",
+    "cross-platform",
+    "Node.js",
+    "iPhone",
+    "Android"
+  ],
+  "license": "(MIT OR GPL-2.0)",
+  "main": "core.js",
+  "maintainers": [
+    {
+      "name": "borzav",
+      "email": "viktor.borza@jaystack.com"
+    },
+    {
+      "name": "jaydata",
+      "email": "community@jaydata.org"
+    },
+    {
+      "name": "lazarv",
+      "email": "viktor.lazar@jaystack.com"
+    }
+  ],
+  "name": "jaydata",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaydata/jaydata.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.5.10"
+}

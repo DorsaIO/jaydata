@@ -1,0 +1,138 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "jaydata-odatajs@^4.0.1",
+        "scope": null,
+        "escapedName": "jaydata-odatajs",
+        "name": "jaydata-odatajs",
+        "rawSpec": "^4.0.1",
+        "spec": ">=4.0.1 <5.0.0",
+        "type": "range"
+      },
+      "C:\\Projects\\Master-Solutions\\ESRM\\Project\\ESRM.Angular\\node_modules\\jaydata"
+    ]
+  ],
+  "_from": "jaydata-odatajs@>=4.0.1 <5.0.0",
+  "_id": "jaydata-odatajs@4.0.1",
+  "_inCache": true,
+  "_location": "/jaydata-odatajs",
+  "_nodeVersion": "4.2.3",
+  "_npmOperationalInternal": {
+    "host": "packages-16-east.internal.npmjs.com",
+    "tmp": "tmp/jaydata-odatajs-4.0.1.tgz_1465389908471_0.010576776694506407"
+  },
+  "_npmUser": {
+    "name": "borzav",
+    "email": "viktor.borza@jaystack.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "jaydata-odatajs@^4.0.1",
+    "scope": null,
+    "escapedName": "jaydata-odatajs",
+    "name": "jaydata-odatajs",
+    "rawSpec": "^4.0.1",
+    "spec": ">=4.0.1 <5.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/jaydata",
+    "/jaydata-dynamic-metadata"
+  ],
+  "_resolved": "https://registry.npmjs.org/jaydata-odatajs/-/jaydata-odatajs-4.0.1.tgz",
+  "_shasum": "b67098124ddad87f511237ef58889e494ee1e3a6",
+  "_shrinkwrap": null,
+  "_spec": "jaydata-odatajs@^4.0.1",
+  "_where": "C:\\Projects\\Master-Solutions\\ESRM\\Project\\ESRM.Angular\\node_modules\\jaydata",
+  "bugs": {
+    "url": "https://github.com/jaystack/olingo-odata4-js/issues"
+  },
+  "contributors": [
+    {
+      "name": "Bing Li",
+      "email": "bingl@apache.org"
+    },
+    {
+      "name": "Sven Kobler-Morris",
+      "email": "koblers@apache.org"
+    },
+    {
+      "name": "Challen He",
+      "email": "challenh@apache.org"
+    },
+    {
+      "name": "Viktor Lázár",
+      "email": "viktor.lazar@jaystack.com"
+    },
+    {
+      "name": "Viktor Borza",
+      "email": "viktor.borza@jaystack.com"
+    }
+  ],
+  "dependencies": {
+    "xmldom": "^0.1.19"
+  },
+  "description": "the Olingo OData Client for JavaScript library is a new cross-browser JavaScript library that enables data-centric web applications by leveraging modern protocols such as JSON and OData and HTML5-enabled browser features. It's designed to be small, fast a",
+  "devDependencies": {
+    "async": "^1.5.0",
+    "catharsis": "^0.8.7",
+    "chai": "^2.0.0",
+    "chalk": "^1.1.1",
+    "grunt": "^0.4.5",
+    "grunt-connect-proxy": "^0.1.10",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-compress": "^0.10.0",
+    "grunt-contrib-copy": "^0.5.0",
+    "grunt-contrib-uglify": "^0.4.0",
+    "grunt-curl": "^2.0.2",
+    "grunt-jsdoc": "^0.5.6",
+    "grunt-nuget": "^0.1.3",
+    "mocha": "^2.1.0",
+    "taffydb": "^2.7.2",
+    "xml2js": "^0.4.15",
+    "xmldom": "^0.1.19"
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "b67098124ddad87f511237ef58889e494ee1e3a6",
+    "tarball": "https://registry.npmjs.org/jaydata-odatajs/-/jaydata-odatajs-4.0.1.tgz"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "gitHead": "e40a1a1abced397e6793c0e1bf9ac7f3d104dcc6",
+  "homepage": "http://olingo.apache.org",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "borzav",
+      "email": "viktor.borza@jaystack.com"
+    },
+    {
+      "name": "jaydata",
+      "email": "community@jaydata.org"
+    },
+    {
+      "name": "lazarv",
+      "email": "viktor.lazar@jaystack.com"
+    },
+    {
+      "name": "peterzentai",
+      "email": "peter.zentai@jaystack.com"
+    }
+  ],
+  "name": "jaydata-odatajs",
+  "optionalDependencies": {},
+  "postfix": "",
+  "readme": "ERROR: No README data found!",
+  "releaseCandidate": "",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaystack/olingo-odata4-js.git"
+  },
+  "scripts": {},
+  "title": "Olingo OData Client for JavaScript",
+  "version": "4.0.1"
+}
